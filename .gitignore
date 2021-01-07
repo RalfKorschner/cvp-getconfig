@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# custome .cvpcfp config output from the script
+*.cvpcfg
 # C extensions
 *.so
 

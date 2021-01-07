@@ -2,7 +2,7 @@
 
 Even though this script is best effort supported, please send any issues you find, suggestions for improvements etc to: [ralf@arista.com](mailto:ralf@arista.com).  Please use the subject: **CVP GETCONFIG**
 
-This tool can be used to retrieve the ARP Table from CVP instead of an EOS device.
+This tool can be used to retrieve the EOS device config from CVP.
 
 Tested with CVP Versions 2020.2.3
 
